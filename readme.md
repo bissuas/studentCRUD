@@ -4,7 +4,7 @@ Technologies Used:
 
 Following features are available with this project.
 
-1> REGISTER USER
+1> REGISTER User
 2> Login User
 3> Create Student
 4> Read Student Data
@@ -30,6 +30,6 @@ I have added few Screenshots of the project.
 
 
 Hoping to add following features
-1. Add Teached Management System with CRUD functionalites
+1. Add Teacher Management System with CRUD functionalites
 2. Add logout  button
 3. Make changes in the design
